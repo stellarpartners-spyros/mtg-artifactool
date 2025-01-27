@@ -21,7 +21,7 @@ A tool to convert Magic: The Gathering decklists between different formats, spec
 ### Moxfield Input Format
 ```
 1 Jarad, Golgari Lich Lord (GK1) 65
-1 Arcane Signet (MIC) 157
+1 Arcane Signet (Midnight Hunt Commander) 157
 1 Birds of Paradise (RVR) 133
 ```
 
