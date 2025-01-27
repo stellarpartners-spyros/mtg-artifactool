@@ -28,7 +28,7 @@ A tool to convert Magic: The Gathering decklists between different formats, spec
 ### Cardmarket Output Format
 ```
 1 Jarad, Golgari Lich Lord (Guilds of Ravnica: Guild Kits)
-1 Arcane Signet (Commander 2021)
+1 Arcane Signet (Midnight Hunt Commander)
 1 Birds of Paradise (Ravnica Remastered)
 
 ## Expansion Mappings
